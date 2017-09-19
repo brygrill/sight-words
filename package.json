@@ -1,7 +1,8 @@
 {
-  "name": "site-words",
+  "name": "sight-words",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://brygrill.github.io/sight-words",
+  "private": false,
   "dependencies": {
     "gh-pages": "^1.0.0",
     "grommet": "^1.7.0",
